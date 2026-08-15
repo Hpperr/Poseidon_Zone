@@ -1,4 +1,4 @@
-# POSEIDON_ZONE v1.0
+# POSEIDON_ZONE v2.0
 
 ## Protocol Downgrade & Network Manipulation Framework
 
